@@ -4,7 +4,7 @@
 */
 
 body{
-    background: #dddddd;
+    background: #e7e7e7;
 }
 
 div{
@@ -12,4 +12,5 @@ div{
     width: 300px;
     padding: 10px;
     text-align: center;
+    border: 1px solid #cccccc;
 }
