@@ -19,8 +19,14 @@ body{
 .index{
     background: #ffcccc;
     color: #666666;
+    float: left;
+    padding: 5px;
+    margin-left: 10px;
 }
 
 .content{
     background: #eeffee;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
 }
