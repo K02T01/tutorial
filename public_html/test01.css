@@ -7,11 +7,20 @@ body{
     background: #e7e7e7;
 }
 
-div{
+.head{
     background: #ffffff;
     width: 300px;
     padding: 10px;
     text-align: center;
     border: 1px solid #cccccc;
     margin: 30px auto;
+}
+
+.index{
+    background: #ffcccc;
+    color: #666666;
+}
+
+.content{
+    background: #eeffee;
 }
