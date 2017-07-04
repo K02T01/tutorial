@@ -22,6 +22,7 @@ body{
     float: left;
     padding: 5px;
     margin-left: 10px;
+    border-radius: 6px;
 }
 
 .content{
@@ -29,4 +30,22 @@ body{
     float: left;
     padding: 10px;
     margin-left: 10px;
+    min-width: 400px;
+}
+
+.square_btn {
+    display: inline-block;
+    background: white;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #67c5ff;
+    border: solid 2px #67c5ff;
+    border-radius: 16px 16px 16px 16px/12px 12px 12px 12px;
+    transition: .4s;
+}
+
+.square_btn:hover {
+    background: #67c5ff;
+    border: solid 2px white;
+    color: white;
 }
